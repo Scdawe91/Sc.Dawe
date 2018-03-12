@@ -1,0 +1,18 @@
+### The ingame overlay:
+
+![Overlay](http://i.imgur.com/3ZX9Elm.jpg "The overlay")
+
+#### Card Marks
+Opponent hand cards are denoted with icons
+* ![Coin](https://github.com/Epix37/Hearthstone-Deck-Tracker/blob/master/Hearthstone%20Deck%20Tracker/Images/card-icon-coin.png "Coin") - coin
+* ![Mulligan](https://github.com/Epix37/Hearthstone-Deck-Tracker/blob/master/Hearthstone%20Deck%20Tracker/Images/card-icon-mulligan.png "Mulligan") - mulliganed
+* ![Returned](https://github.com/Epix37/Hearthstone-Deck-Tracker/blob/master/Hearthstone%20Deck%20Tracker/Images/card-icon-returned.png "Returned") - returned (e.g. by youthful brewmaster)
+* ![Gift](https://github.com/Epix37/Hearthstone-Deck-Tracker/blob/master/Hearthstone%20Deck%20Tracker/Images/card-icon-created.png "Gift") - created cards (e.g. spare parts)
+
+#### Adjusting positions & deck list
+* Everything in the overlay can be moved around by unlocking it in the options menu: 
+![unlock](http://i.imgur.com/9ut1DZt.png)
+
+* What's displayed in the deck list can be moved around and turned on/off separately, too:
+![unlock](http://i.imgur.com/kxjeQjZ.png)  
+(same goes for the opponent, one item lower in the list on the left)
